@@ -1,0 +1,79 @@
+{
+  "10402a3ce7fddc45": "Una aplicación multilingüe para descubrir pódcasts, creada con Next.js y gt-next, que demuestra contenido internacionalizado y formateo según la configuración regional.",
+  "121838b149ef03bb": "Perdidos en la traducción: cine y subtítulos",
+  "14bf01991d6ee92d": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "t": "circle"
+          },
+          {
+            "i": 4,
+            "t": "polyline"
+          }
+        ],
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "i": 5,
+        "k": "duration",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "1dc5dc1414b5e15c": "Código y cultura",
+  "22859afc6fbbbdfd": "La carrera por documentar y digitalizar lenguas habladas por menos de mil hablantes antes de que desaparezcan.",
+  "265a4f539ef36160": "Esta es una aplicación de ejemplo creada con General Translation para demostrar la internacionalización. Todos los datos de los podcasts son ficticios.",
+  "28d3905be7a12c08": "La economía de los mercados multilingües",
+  "3848c7281861d843": "Por qué traducir diálogos cinematográficos es un arte y cómo las decisiones de subtitulado pueden cambiar el significado de una escena.",
+  "3dbd8ba7e52e9f78": "Explora episodios sobre idioma, tecnología, cultura y negocios. Todo el contenido está completamente traducido con formato adaptado a la configuración regional para números y fechas.",
+  "408862794e972ad4": "Descubre pódcast de todo el mundo",
+  "542a48a445657d91": "Diseñar para una audiencia global",
+  "5a6b1d0b92193571": "Cómo la estructura del lenguaje da forma a nuestra comprensión del mundo, desde los árboles sintácticos hasta los campos semánticos.",
+  "654e7db13c53ded3": "Directorio de pódcast",
+  "8270ff065cef142f": "Cómo las empresas que localizan pronto capturan una cuota de mercado desproporcionada en las regiones no angloparlantes.",
+  "83a034905dfaf87d": "Tecnología",
+  "9525d2b6c71c7865": "De los modelos estadísticos a las arquitecturas transformer: la evolución de la traducción automática y lo que viene después.",
+  "aab25fba56518455": "Lingüística",
+  "ae005b1f2aac914e": "Negocio",
+  "b7c04d9a17854b68": "Fotograma a fotograma",
+  "c21848e7774e2563": "La arquitectura del lenguaje",
+  "c4bc2312b5d643d7": "Enseñar a las máquinas a entender el contexto",
+  "c8996ff208faa2ba": "Cultura",
+  "d8c27fd333314998": "Redes neuronales",
+  "db96a1ebbd03396f": "Preservar las lenguas en peligro de extinción",
+  "e351b6bdf6a12769": "Señales del mercado",
+  "e4d4da85e94cefdd": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "t": "path"
+          },
+          {
+            "i": 4,
+            "t": "circle"
+          }
+        ],
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "i": 5,
+        "k": "_gt_n_5",
+        "v": "n"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "ea47cf55ece48949": "Un análisis en profundidad de la ingeniería de internacionalización: gestión de escrituras de derecha a izquierda, reglas de pluralización y formateo según la configuración regional.",
+  "eb4913d3d6562cbf": "Lingua Franca",
+  "eef9d034b0414a77": "Directorio de pódcasts | Traducción global"
+}

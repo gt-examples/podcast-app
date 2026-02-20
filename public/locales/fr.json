@@ -1,0 +1,79 @@
+{
+  "10402a3ce7fddc45": "Une application multilingue de découverte de podcasts, créée avec Next.js et gt-next, illustrant un contenu internationalisé et un formatage adapté à la langue et à la région.",
+  "121838b149ef03bb": "Perdus dans la traduction\u0000a0: films et sous-titres",
+  "14bf01991d6ee92d": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "t": "circle"
+          },
+          {
+            "i": 4,
+            "t": "polyline"
+          }
+        ],
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "i": 5,
+        "k": "duration",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "1dc5dc1414b5e15c": "Code et culture",
+  "22859afc6fbbbdfd": "La course contre la montre pour documenter et numériser les langues parlées par moins de mille personnes avant qu’elles ne disparaissent.",
+  "265a4f539ef36160": "Il s'agit d'un exemple d'application développée avec General Translation pour illustrer l'internationalisation. Toutes les données de podcast sont fictives.",
+  "28d3905be7a12c08": "L'économie des marchés multilingues",
+  "3848c7281861d843": "Pourquoi la traduction des dialogues au cinéma est un art et comment les choix de sous-titrage peuvent changer le sens d'une scène.",
+  "3dbd8ba7e52e9f78": "Parcourez des épisodes sur la langue, la technologie, la culture et les affaires. Tout le contenu est entièrement traduit avec un formatage adapté aux paramètres régionaux pour les nombres et les dates.",
+  "408862794e972ad4": "Découvrez des podcasts du monde entier",
+  "542a48a445657d91": "Concevoir pour un public mondial",
+  "5a6b1d0b92193571": "Comment la structure du langage façonne notre compréhension du monde, des arbres syntaxiques aux champs sémantiques.",
+  "654e7db13c53ded3": "Annuaire de podcasts",
+  "8270ff065cef142f": "Comment les entreprises qui se lancent tôt dans la localisation captent une part de marché disproportionnée dans les régions non anglophones.",
+  "83a034905dfaf87d": "Technologie",
+  "9525d2b6c71c7865": "Des modèles statistiques aux architectures Transformer\u0000a0: évolution de la traduction automatique et perspectives à venir.",
+  "aab25fba56518455": "Linguistique",
+  "ae005b1f2aac914e": "Entreprise",
+  "b7c04d9a17854b68": "Image par image",
+  "c21848e7774e2563": "L’architecture du langage",
+  "c4bc2312b5d643d7": "Apprendre aux machines à saisir le contexte",
+  "c8996ff208faa2ba": "Culture",
+  "d8c27fd333314998": "Voies neuronales",
+  "db96a1ebbd03396f": "Préserver les langues en danger",
+  "e351b6bdf6a12769": "Signaux de marché",
+  "e4d4da85e94cefdd": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "t": "path"
+          },
+          {
+            "i": 4,
+            "t": "circle"
+          }
+        ],
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "i": 5,
+        "k": "_gt_n_5",
+        "v": "n"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "ea47cf55ece48949": "Une exploration approfondie de l’ingénierie de l’internationalisation : gestion des écritures de droite à gauche, des règles de pluriel et d’un formatage adapté à la langue et à la région.",
+  "eb4913d3d6562cbf": "Lingua Franca",
+  "eef9d034b0414a77": "Répertoire de podcasts | Traduction générale"
+}
