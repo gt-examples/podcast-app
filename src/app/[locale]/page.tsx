@@ -13,6 +13,18 @@ export default async function Home() {
 
   const episodes = [
     {
+      id: 7,
+      title: gt("Why Your App Speaks Like a Robot"),
+      show: gt("Code and Culture"),
+      desc: gt("From botched plurals to flipped layouts: why most software mangles multilingual content, and how modern i18n tools are finally fixing it."),
+      duration: 155,
+      date: "2026-02-19",
+      category: gt("Technology"),
+      categoryStyle: "bg-blue-500/10 text-blue-400 border-blue-500/20",
+      listens: 1200,
+      audio: "/podcasts/ep7-why-your-app-speaks-like-a-robot.mp3",
+    },
+    {
       id: 1,
       title: gt("The Architecture of Language"),
       show: gt("Lingua Franca"),
@@ -156,6 +168,11 @@ export default async function Home() {
               <p className="text-sm text-neutral-400 leading-relaxed mb-3">
                 {ep.desc}
               </p>
+              {"audio" in ep && ep.audio && (
+                <audio controls preload="none" className="w-full h-8 mb-2 [&::-webkit-media-controls-panel]:bg-neutral-800">
+                  <source src={ep.audio} type="audio/mpeg" />
+                </audio>
+              )}
               <div className="flex items-center gap-4 text-xs text-neutral-500">
                 <T>
                   <span className="flex items-center gap-1">
