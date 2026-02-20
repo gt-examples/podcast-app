@@ -38,6 +38,7 @@ export async function generateMetadata({
     alternates: {
       canonical: "https://podcast-app.generaltranslation.dev",
       languages: {
+        de: "/de",
         en: "/en",
         es: "/es",
         fr: "/fr",

@@ -1,6 +1,7 @@
 {
   "defaultLocale": "en",
   "locales": [
+    "de",
     "es",
     "fr",
     "ja",
@@ -11,5 +12,5 @@
       "output": "public/locales/[locale].json"
     }
   },
-  "_versionId": "8e0ce5fc2dbcdc7eacbb98b4a6f6acb10c10976373c4fc5d2b42276d3d2ea1d8"
+  "_versionId": "5e43959f703a731ff3242a8a40131d10a8d2bd30642767994972263bf047d865"
 }
