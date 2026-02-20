@@ -1,0 +1,81 @@
+{
+  "10402a3ce7fddc45": "Eine mehrsprachige App zur Podcast-Entdeckung, entwickelt mit Next.js und gt-next, die internationalisierte Inhalte und gebietsschemaabhängige Formatierung demonstriert.",
+  "121838b149ef03bb": "Lost in Translation: Film und Untertitel",
+  "14bf01991d6ee92d": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "t": "circle"
+          },
+          {
+            "i": 4,
+            "t": "polyline"
+          }
+        ],
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "i": 5,
+        "k": "duration",
+        "v": "v"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "1dc5dc1414b5e15c": "Code und Kultur",
+  "22859afc6fbbbdfd": "Der Wettlauf, Sprachen zu dokumentieren und zu digitalisieren, die von weniger als tausend Menschen gesprochen werden – bevor sie verschwinden.",
+  "265a4f539ef36160": "Dies ist eine Beispielanwendung, die mit General Translation erstellt wurde, um Internationalisierung zu demonstrieren. Alle Podcast-Daten sind fiktiv.",
+  "28d3905be7a12c08": "Die Ökonomie mehrsprachiger Märkte",
+  "3848c7281861d843": "Warum die Übersetzung von Dialogen fürs Kino eine Kunstform ist – und wie Untertitelentscheidungen die Bedeutung einer Szene verändern können.",
+  "3dbd8ba7e52e9f78": "Episoden zu Sprache, Technologie, Kultur und Wirtschaft durchstöbern. Alle Inhalte sind vollständig übersetzt mit gebietsschemabewusster Formatierung für Zahlen und Datumsangaben.",
+  "3ed9e972062587ad": "Warum deine App wie ein Roboter spricht",
+  "408862794e972ad4": "Entdecke Podcasts aus aller Welt",
+  "542a48a445657d91": "Für ein globales Publikum entwickeln",
+  "5a6b1d0b92193571": "Wie die Struktur von Sprache unser Verständnis der Welt prägt – von Syntaxbäumen bis zu semantischen Feldern.",
+  "654e7db13c53ded3": "Podcast-Verzeichnis",
+  "8270ff065cef142f": "Wie Unternehmen, die früh lokalisieren, überproportionale Marktanteile in nicht-englischsprachigen Regionen gewinnen.",
+  "83a034905dfaf87d": "Technologie",
+  "9525d2b6c71c7865": "Von statistischen Modellen hin zu Transformer-Architekturen: Die Entwicklung der maschinellen Übersetzung – und was als Nächstes kommt.",
+  "a0c4b7d87c8e2ef1": "Von verhunzten Pluralformen bis zu auf den Kopf gestellten Layouts: warum die meisten Anwendungen bei mehrsprachigen Inhalten scheitern – und wie moderne i18n-Tools das endlich in den Griff bekommen.",
+  "aab25fba56518455": "Linguistik",
+  "ae005b1f2aac914e": "Business",
+  "b7c04d9a17854b68": "Bild für Bild",
+  "c21848e7774e2563": "Die Architektur der Sprache",
+  "c4bc2312b5d643d7": "Maschinen beibringen, Kontext zu erfassen",
+  "c8996ff208faa2ba": "Kultur",
+  "d8c27fd333314998": "Neuronale Pfade",
+  "db96a1ebbd03396f": "Bedrohte Sprachen erhalten",
+  "e351b6bdf6a12769": "Marktsignale",
+  "e4d4da85e94cefdd": {
+    "c": [
+      {
+        "c": [
+          {
+            "i": 3,
+            "t": "path"
+          },
+          {
+            "i": 4,
+            "t": "circle"
+          }
+        ],
+        "i": 2,
+        "t": "svg"
+      },
+      {
+        "i": 5,
+        "k": "_gt_n_5",
+        "v": "n"
+      }
+    ],
+    "i": 1,
+    "t": "span"
+  },
+  "ea47cf55ece48949": "Ein Deep Dive ins Internationalisierungs-Engineering: Umgang mit Rechts-nach-Links-Schriften, Pluralregeln und lokalisierungsabhängiger Formatierung.",
+  "eb4913d3d6562cbf": "Lingua Franca",
+  "eef9d034b0414a77": "Podcast-Verzeichnis | Allgemeine Übersetzungen"
+}

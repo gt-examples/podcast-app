@@ -9,6 +9,7 @@ function formatDuration(seconds: number): string {
 }
 
 const EPISODE_7_AUDIO: Record<string, string> = {
+  de: "/podcasts/episode-7-de.mp3",
   en: "/podcasts/ep7-why-your-app-speaks-like-a-robot.mp3",
   es: "/podcasts/episode-7-es.mp3",
   fr: "/podcasts/episode-7-fr.mp3",
