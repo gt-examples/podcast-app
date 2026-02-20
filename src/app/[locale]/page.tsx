@@ -8,7 +8,20 @@ function formatDuration(seconds: number): string {
   return `${m}:${s.toString().padStart(2, "0")}`;
 }
 
-export default async function Home() {
+const EPISODE_7_AUDIO: Record<string, string> = {
+  en: "/podcasts/ep7-why-your-app-speaks-like-a-robot.mp3",
+  es: "/podcasts/episode-7-es.mp3",
+  fr: "/podcasts/episode-7-fr.mp3",
+  ja: "/podcasts/episode-7-ja.mp3",
+  zh: "/podcasts/episode-7-zh.mp3",
+};
+
+export default async function Home({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
   const gt = await getGT();
 
   const episodes = [
@@ -22,7 +35,7 @@ export default async function Home() {
       category: gt("Technology"),
       categoryStyle: "bg-blue-500/10 text-blue-400 border-blue-500/20",
       listens: 1200,
-      audio: "/podcasts/ep7-why-your-app-speaks-like-a-robot.mp3",
+      audio: EPISODE_7_AUDIO[locale] ?? EPISODE_7_AUDIO.en,
     },
     {
       id: 1,
