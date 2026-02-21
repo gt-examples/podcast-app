@@ -1,4 +1,5 @@
 import { T, Var } from "gt-next";
+import { getGT } from "gt-next/server";
 
 function formatDuration(seconds: number): string {
   const m = Math.floor(seconds / 60);
@@ -6,13 +7,14 @@ function formatDuration(seconds: number): string {
   return `${m}:${s.toString().padStart(2, "0")}`;
 }
 
-export default function AudioPlayer({
+export default async function AudioPlayer({
   duration,
   audioSrc,
 }: {
   duration: number;
   audioSrc?: string;
 }) {
+  const gt = await getGT();
   const total = formatDuration(duration);
 
   if (audioSrc) {
@@ -38,7 +40,7 @@ export default function AudioPlayer({
       <div className="flex items-center gap-3">
         <button
           className="w-10 h-10 rounded-full bg-neutral-100 text-neutral-900 flex items-center justify-center flex-shrink-0 hover:bg-neutral-300 transition-colors"
-          aria-label="Play"
+          aria-label={gt("Play")}
         >
           <svg
             width="16"

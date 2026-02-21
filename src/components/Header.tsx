@@ -1,7 +1,9 @@
 import { LocaleSelector } from "gt-next";
+import { getGT } from "gt-next/server";
 import Link from "next/link";
 
-export default function Header({ title }: { title: string }) {
+export default async function Header({ title }: { title: string }) {
+  const gt = await getGT();
   return (
     <header className="border-b border-neutral-800 bg-neutral-950">
       <div className="max-w-3xl mx-auto px-6 py-5 flex items-center justify-between">
@@ -28,7 +30,7 @@ export default function Header({ title }: { title: string }) {
             target="_blank"
             rel="noopener noreferrer"
             className="text-neutral-400 hover:text-neutral-200 transition-colors"
-            aria-label="View on GitHub"
+            aria-label={gt("View on GitHub")}
           >
             <svg
               width="20"
